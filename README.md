@@ -10,31 +10,31 @@
 Jet lag, city tour
 
 ### 4.2
-@Christchurch->Akaroa  
+@Christchurch <--> Akaroa  
 drive, bay visit  
-![](pics/1.png)
+![](pics/1.jpg)
 
 ### 4.3
 @Christchurch -> Lake Tepaku  
-![](pics/2.png)
+![](pics/2.jpg)
 
 ### 4.4
-@Lake Tepaku -> Lake Pukaki -> Wanaka
-![](pics/3.png)
+@Lake Tepaku -> Lake Pukaki -> Wanaka  
+![](pics/3.jpg)
 
 ### 4.5
 @Wanaka -> Te Anau  
-![](pics/4.png)
+![](pics/4.jpg)
 
 ### 4.6
 @ Milford Sound  
-drive - boat
-![](pics/5.png)
+drive - boat  
+![](pics/5.jpg)
 
 ### 4.7
 @ Te Anau -> Queenstown  
-Drive, Glenorchy, Arrowtown
-![](pics/6.png)
+Drive, Glenorchy, Arrowtown  
+![](pics/6.jpg)
 
 ### 4.8
 @ QueueTown ->  Christchurch  
