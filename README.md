@@ -10,40 +10,37 @@
 Jet lag, city tour
 
 ### 4.2
-@Christchurch <--> Akaroa  
-drive, bay visit  
+@Christchurch -> Lake tepako  
 ![](pics/1.jpg)
 
 ### 4.3
-@Christchurch -> Lake Tepaku  
+@Lake tepako -> Mount cook -> Twizel  
 ![](pics/2.jpg)
 
 ### 4.4
-@Lake Tepaku -> Lake Pukaki -> Wanaka  
+@Twizel -> Queenstown  
 ![](pics/3.jpg)
 
 ### 4.5
-@Wanaka -> Te Anau  
-![](pics/4.jpg)
+@Queenstown  
 
 ### 4.6
-@ Milford Sound  
-drive - boat  
-![](pics/5.jpg)
+@Queenstown -> Dunedin  
+![](pics/4.jpg)
 
 ### 4.7
-@ Te Anau -> Queenstown  
-Drive, Glenorchy, Arrowtown  
-![](pics/6.jpg)
+@Dunedin -> Christchurch  
+![](pics/5.jpg)
 
 ### 4.8
-@ QueueTown ->  Christchurch  
+@Christchurch  
 flight
 ***
-| STAY            | TIME        | COUNT    |
-| --------------- |:-----------:|:--------:|
-| @Christchurch   | 4.1-4.3     | 2 nights |
-| @Lake Tepaku    | 4.3         | 1 night  |
-| @Wanaka         | 4.4         | 1 night  |
-| @Te Anau        | 4.5-4.7     | 2 nights |
-| @Queenstown     | 4.7         | 1 night  |
+| STAY          | LOCATION        | COUNT    |
+| ------------- |:-----------:|:--------:|
+| @Christchurch | Modern, Private + Amazing Location (Lisa)| 4.1-4.2, 1 night |
+| @Lake Tepako  | Black Tussock (Tj)| 4.2-4.3, 1 night  |
+| @Twizel       | Relax On Rata - Cottage 1 (Amy)| 4.3-4.4, 1 night  |
+| @Queenstown   | Central location with parking (Michael)|4.4-4.6, 2 nights |
+| @Dunedin      | Hulmes Court Bed And Breakfast (Booking)|4.6-4.7, 1 night  |
+| @Christchurch | Central location with parking (Isabelle)|4.7, 1 night  |
