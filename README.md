@@ -5,6 +5,8 @@
 * 4.8 20:00 Christchurch -> 4.8 21:20 Auckland
 * 4.8 23:00 Auckland -> 4.9 7:15 Pudong
 ***
+![](pics/main.jpg)
+***
 ### 4.1
 @Christchurch  
 Jet lag, city tour
