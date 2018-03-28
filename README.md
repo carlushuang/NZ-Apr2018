@@ -1,6 +1,6 @@
 # NZ-Apr2018
 
-* 3.31 14:15 Pudong -> 4.1 05:50 Auckland  
+* 3.31 14:15 Pudong -> 4.1 06:50 Auckland  
 * 4.1 8:00 Auckland -> 4.1 9:25 Christchurch
 * 4.8 20:00 Christchurch -> 4.8 21:20 Auckland
 * 4.8 23:00 Auckland -> 4.9 7:15 Pudong
